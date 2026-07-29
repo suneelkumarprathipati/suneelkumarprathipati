@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Suneel Kumar 👋
-### Full Stack Developer | MERN Stack Specialist
+### Full Stack Developer | Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://suneel-kumar-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suneel-kumar-mern)
